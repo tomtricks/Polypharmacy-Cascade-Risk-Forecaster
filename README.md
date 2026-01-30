@@ -88,8 +88,8 @@ Notebooks are organized by:
 
 ---
 ## References:
-- Architecture Diagram: (assets/Architecture_FLow.png)
-- Dashboard Screenshot: (assets/Dashboard.png)
+- [Architecture Diagram](assets/Architecture_FLow.png)
+- [Dashboard Screenshot](assets/Dashboard.png)
 
 ---
 
