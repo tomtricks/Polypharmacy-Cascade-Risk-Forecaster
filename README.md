@@ -91,7 +91,7 @@ Notebooks are organized by:
 - [Architecture Diagram](assets/Architecture_FLow.png)
 - [Dashboard Screenshot](assets/Dashboard.png)
 - [Job pipeline](assets/Job_run.png)
-- [ML FLow](assets/LogisticregressionGraph.png)
+- [ML FLow](assets/Logistic_regression_Graph.png)
 
 ---
 
