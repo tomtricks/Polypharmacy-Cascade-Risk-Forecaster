@@ -87,6 +87,11 @@ Notebooks are organized by:
 - Model training and evaluation
 
 ---
+## References:
+- Architecture Diagram: (assets/Architecture_FLow.png)
+- Dashboard Screenshot: (assets/Dashboard.png)
+
+---
 
 ## Disclaimer
 This project is for educational and research purposes only and is **not intended for clinical use**.
