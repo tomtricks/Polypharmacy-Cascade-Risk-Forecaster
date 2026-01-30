@@ -28,6 +28,7 @@ The system is implemented using the **Databricks Lakehouse architecture**:
 
 Machine learning is trained directly from Gold tables and predictions are written back to the database.
 
+![Architecture](Architecture_FLow.png)
 ---
 
 ## Machine Learning Approach
