@@ -1,0 +1,23 @@
+These Sql queries are used to power the Databricks Dashboard 
+and to analyse patient risk distribution and prioritization.
+
+-- Risk Level Distribution
+SELECT risk_bucket, COUNT(*) AS patient_count
+FROM gold_patient_risk
+GROUP BY risk_bucket
+ORDER BY patient_count DESC;
+
+--Average Risk Score by Risk Bucket
+SELECT risk_bucket, AVG(risk_score) AS avg_risk
+FROM gold_patient_risk
+GROUP BY risk_bucket
+ORDER BY avg_risk DESC;
+
+--Top N High-Risk Patients
+
+SELECT patient_id, risk_score
+FROM gold_patient_risk
+WHERE risk_bucket = 'High'
+ORDER BY risk_score DESC
+LIMIT 10;
+
