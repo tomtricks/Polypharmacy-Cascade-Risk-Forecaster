@@ -90,6 +90,8 @@ Notebooks are organized by:
 ## References:
 - [Architecture Diagram](assets/Architecture_FLow.png)
 - [Dashboard Screenshot](assets/Dashboard.png)
+- [Job pipeline](assets/Job_run.png)
+- [ML FLow](assets/LogisticregressionGraph.png)
 
 ---
 
